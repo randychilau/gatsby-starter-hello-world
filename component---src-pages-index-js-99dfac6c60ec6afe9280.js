@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[678],{470:function(e,t,r){r.r(t),r.d(t,{default:function(){return c}});var l=r(294),n=r.p+"static/meshery-full-perf-720p-cabfe5b14671b34f0ec367f54e6860d3.mp4";function c(){return l.createElement(l.Fragment,null,l.createElement("div",null,"Hello world!"),l.createElement("video",{controls:!0},l.createElement("source",{src:n,type:"video/mp4"})))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-99dfac6c60ec6afe9280.js.map
